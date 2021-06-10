@@ -1,6 +1,6 @@
-# Website for Broxh
+# Resume site
 
-Broxh.com a humble website for a humble guy
+A site/blog for my Resume
 
 ---
 ## Requirements
@@ -56,8 +56,8 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 ## Install
 
-    $ git clone https://github.com/N3M0dropserver/broxh_open
-    $ cd broxh_open
+    $ git clone https://github.com/N3M0dropserver/resume
+    $ cd resume
     $ yarn install
 
 ## Configure app
@@ -75,8 +75,8 @@ There is no settings feel free to make changes in `index.js` then edit it with y
 
 ## Alternatively to install and start you can:
 
-    $ git clone https://github.com/N3M0dropserver/broxh_open
-    $ cd broxh_open
+    $ git clone https://github.com/N3M0dropserver/resume
+    $ cd resume
     $ npm install / npm -i
     $ node index.js
 
